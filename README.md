@@ -1,6 +1,7 @@
 # data-mining-labs Practice Repository
 
 - This repository contains a series of practical exercises and notebooks I personally developed to explore key concepts in data science and machine learning. Each notebook addresses a specific topic, providing hands-on examples and solutions to real-world problems.
+
 **Contents:**
 1. Data Preparation (ps01_02_data_preparation_103)
 Covers techniques for cleaning, transforming, and preparing datasets for analysis, ensuring data quality and consistency.
